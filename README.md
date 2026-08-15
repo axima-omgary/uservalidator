@@ -74,7 +74,7 @@ git clone https://github.com/axima-omgary/uservalidator/
 Enter the project directory:
 
 ```bash
-cd username-validator
+cd uservalidator
 ```
 
 Run the program:
